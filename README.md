@@ -1,3 +1,3 @@
 # SharedPreferences
 Android SharedPreferences
-https://tutorial.eyehunt.in/android/android-sharedpreferences-tutorial-example-kotlin/
+https://tutorial.eyehunts.com/android/android-sharedpreferences-tutorial-example-kotlin/
